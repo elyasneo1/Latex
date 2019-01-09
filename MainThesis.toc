@@ -8,8 +8,8 @@
 \contentsline {subsection}{\numberline {1‏-‏4‏-‏1}شروع کار با گیت}{3}{subsection.1.4.1}
 \contentsline {subsubsection}{init}{3}{subsubsection*.1}
 \contentsline {subsubsection}{clone}{3}{subsubsection*.2}
-\contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{3}{subsection.1.4.2}
-\contentsline {subsubsection}{status}{3}{subsubsection*.3}
-\contentsline {subsubsection}{checkout}{3}{subsubsection*.4}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{4}{subsection.1.4.2}
+\contentsline {subsubsection}{status}{4}{subsubsection*.3}
+\contentsline {subsubsection}{checkout}{4}{subsubsection*.4}
 \contentsline {chapter}{نمایه}{6}{section*.7}
 \contentsline {chapter}{چکیده انگلیسی}{6}{section*.7}
