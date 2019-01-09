@@ -3,55 +3,45 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: MainThesis.aux
 A level-1 auxiliary file: Chapters/chapter1.aux
 The style file: ieeetr.bst
-White space in argument---line 33 of file MainThesis.aux
- : \bibdata{Postface/My
- :                      Collection}
-I'm skipping whatever remains of this command
-I found no database files---while reading file MainThesis.aux
-Warning--I didn't find a database entry for "Blischak2016"
-Warning--I didn't find a database entry for "Chacon2014"
-Warning--I didn't find a database entry for "DeAlwis2009"
-Warning--I didn't find a database entry for "Ram2013"
-Warning--I didn't find a database entry for "spinellis2012git"
-You've used 0 entries,
+Database file #1: Postface/MyBibFileName.bib
+You've used 5 entries,
             1876 wiz_defined-function locations,
-            486 strings with 3587 characters,
-and the built_in function-call counts, 20 in all, are:
-= -- 0
-> -- 0
+            516 strings with 4278 characters,
+and the built_in function-call counts, 1324 in all, are:
+= -- 138
+> -- 35
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 9
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 14
+- -- 9
+* -- 77
+:= -- 181
+add.period$ -- 6
+call.type$ -- 5
+change.case$ -- 4
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 5
+duplicate$ -- 81
+empty$ -- 130
+format.name$ -- 9
+if$ -- 335
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 5
+missing$ -- 6
+newline$ -- 19
+num.names$ -- 5
+pop$ -- 19
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1
+skip$ -- 58
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 74
+swap$ -- 37
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There were 2 error messages)
+while$ -- 13
+width$ -- 6
+write$ -- 52

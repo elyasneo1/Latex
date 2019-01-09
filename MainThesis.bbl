@@ -1,3 +1,26 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{Blischak2016}
+J.~D. Blischak, E.~R. Davenport, and G.~Wilson, ``{A quick introduction to
+  version control with Git and GitHub},'' {\em PLoS computational biology},
+  vol.~12, no.~1, p.~e1004668, 2016.
+
+\bibitem{Chacon2014}
+S.~Chacon and B.~Straub, {\em {Pro git}}.
+\newblock Apress, 2014.
+
+\bibitem{DeAlwis2009}
+B.~{De Alwis} and J.~Sillito, ``{Why are software projects moving from
+  centralized to decentralized version control systems?},'' in {\em Proceedings
+  of the 2009 ICSE Workshop on Cooperative and Human Aspects on Software
+  Engineering}, pp.~36--39, 2009.
+
+\bibitem{Ram2013}
+K.~Ram, ``{Git can facilitate greater reproducibility and increased
+  transparency in science},'' {\em Source code for biology and medicine},
+  vol.~8, no.~1, p.~7, 2013.
+
+\bibitem{spinellis2012git}
+D.~Spinellis, ``{Git},'' {\em IEEE software}, no.~3, pp.~100--101, 2012.
 
 \end{thebibliography}
