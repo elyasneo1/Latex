@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.12)  10 JAN 2019 00:15
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.12)  10 JAN 2019 00:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2070,12 +2070,12 @@ LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/it' will be
 ]
 
 LaTeX Font Warning: Font shape `EU1/XBNiloofar(0)/m/sc' undefined
-(Font)              using `EU1/XBNiloofar(0)/m/n' instead on input line 26.
+(Font)              using `EU1/XBNiloofar(0)/m/n' instead on input line 25.
 
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/m/sc' will be
-(Font)              scaled to size 10.79997pt on input line 26.
+(Font)              scaled to size 10.79997pt on input line 25.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/m/sc' will be
-(Font)              scaled to size 11.99997pt on input line 26.
+(Font)              scaled to size 11.99997pt on input line 25.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.58pt.
