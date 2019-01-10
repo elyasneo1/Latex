@@ -22,5 +22,3 @@
 \contentsline {subsection}{\numberline {1‏-‏4‏-‏5} گسترش }{12}{subsection.1.4.5}
 \contentsline {subsubsection}{branch}{12}{subsubsection*.23}
 \contentsline {subsubsection}{merge}{12}{subsubsection*.24}
-\contentsline {chapter}{نمایه}{22}{section*.35}
-\contentsline {chapter}{چکیده انگلیسی}{22}{section*.35}

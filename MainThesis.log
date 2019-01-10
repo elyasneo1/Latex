@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.20)  10 JAN 2019 23:31
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.12)  11 JAN 2019 00:02
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1850,11 +1850,7 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 693.
 LaTeX Warning: Unused global option(s):
     [fleqn,twoside].
 
-(./MainThesis.aux (./Chapters/chapter1.aux
-
-LaTeX Warning: Label `n9' multiply defined.
-
-))
+(./MainThesis.aux (./Chapters/chapter1.aux))
 \openout1 = `MainThesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -1877,7 +1873,8 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 7.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 7.
- (c:/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
+
+(c:/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 7.
@@ -2139,45 +2136,45 @@ File: ./Figures/GitPush.png Graphic file (type QTm)
 <use  "./Figures/GitPush.png" >
 File: ./Figures/GitPull.png Graphic file (type QTm)
  <use  "./Figures/GitPull.png" > [11]
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 172--181
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 172--181
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 172--181
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--179
+Underfull \hbox (badness 10000) in paragraph at lines 172--181
 [][]
  []
 
 [12]
 File: ./Figures/n1.png Graphic file (type QTm)
- <use  "./Figures/n1.png" > [13]
+ <use  "./Figures/n1.png" >
 File: ./Figures/n2.png Graphic file (type QTm)
- <use  "./Figures/n2.png" > [14]
+ <use  "./Figures/n2.png" >
 File: ./Figures/n3.png Graphic file (type QTm)
 
-<use  "./Figures/n3.png" > [15]
+<use  "./Figures/n3.png" > [13]
 File: ./Figures/n4.png Graphic file (type QTm)
- <use  "./Figures/n4.png" > [16]
+ <use  "./Figures/n4.png" >
 File: ./Figures/n6.png Graphic file (type QTm)
 
-<use  "./Figures/n6.png" > [17]
+<use  "./Figures/n6.png" > [14]
+File: ./Figures/n7.png Graphic file (type QTm)
+ <use  "./Figures/n7.png" >
 File: ./Figures/n8.png Graphic file (type QTm)
- <use  "./Figures/n8.png" > [18]
-File: ./Figures/n9.png Graphic file (type QTm)
 
-<use  "./Figures/n9.png" > [19]
+<use  "./Figures/n8.png" > [15]
 File: ./Figures/n9.png Graphic file (type QTm)
- <use  "./Figures/n9.png" >) [20])
+ <use  "./Figures/n9.png" >) [16])
 (./Postface/MainPostface.tex (./Postface/References2.tex (./MainThesis.bbl
 Missing character: There is no م in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
@@ -2190,36 +2187,13 @@ ge=DFLT;mapping=tex-text;!
 Missing character: There is no ع in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
 ))
-[21
+[17
 
 ]
 runsystem(xindy -L persian-variant2 -C utf8 -M texindy -M page-ranges MainThesi
 s.idx)...executed.
 
- (./MainThesis.ind) (./Postface/AbstractEn.tex [22])
-\g__fontspec_family_Arial_int=\count324
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Arial(0)' created for font 'Arial' with options
-. [Script=Parsi,Language=Parsi,Mapping=parsidigits].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.:
-. <->"Arial/OT:script=arab;language=FAR;mapping=parsidigits;"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"Arial/B/OT:script=arab;language=FAR;mapping=parsidigits;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"Arial/I/OT:script=arab;language=FAR;mapping=parsidigits;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.:
-. <->"Arial/BI/OT:script=arab;language=FAR;mapping=parsidigits;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
-LaTeX Info: Redefining \persianfont on input line 17.
-File: Preface/logo-noshirvani.pdf Graphic file (type QTm)
-
-<use  "Preface/logo-noshirvani.pdf" > [23]) 
+ (./MainThesis.ind)) 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 11.
@@ -2233,17 +2207,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 40947 strings out of 493591
- 800387 string characters out of 6146793
- 897527 words of memory out of 5000000
- 43533 multiletter control sequences out of 15000+600000
- 14489 words of font info for 122 fonts, out of 8000000 for 9000
+ 40905 strings out of 493591
+ 798957 string characters out of 6146793
+ 897524 words of memory out of 5000000
+ 43508 multiletter control sequences out of 15000+600000
+ 14401 words of font info for 111 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 62i,12n,82p,10474b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,82p,10474b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on MainThesis.pdf (31 pages).
+Output written on MainThesis.pdf (25 pages).
