@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.20)  10 JAN 2019 15:17
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.20)  10 JAN 2019 23:31
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1850,7 +1850,11 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 693.
 LaTeX Warning: Unused global option(s):
     [fleqn,twoside].
 
-(./MainThesis.aux (./Chapters/chapter1.aux))
+(./MainThesis.aux (./Chapters/chapter1.aux
+
+LaTeX Warning: Label `n9' multiply defined.
+
+))
 \openout1 = `MainThesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -1873,8 +1877,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 7.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 7.
-
-(c:/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (c:/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 7.
@@ -1986,52 +1989,57 @@ LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/bx/n' will be
 [3]
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/m/it' will be
 (Font)              scaled to size 13.13995pt on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--25
+[][]
+ []
+
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/m/it' will be
-(Font)              scaled to size 14.39996pt on input line 17.
- [4]
+(Font)              scaled to size 14.39996pt on input line 27.
+[4]
 File: ./Preface/logo-noshirvani.pdf Graphic file (type QTm)
  <use  "./Preface/logo-noshirvani.pdf" > [5]
 File: ./Preface/logo-noshirvani.pdf Graphic file (type QTm)
 
 <use  "./Preface/logo-noshirvani.pdf" >
-LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
 
 (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 24.
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 
 (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 24.
+(Font)              scaled to size 13.13995pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 24.
+(Font)              scaled to size 9.59998pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 24.
+(Font)              scaled to size 7.19998pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/bx/n' will be
-(Font)              scaled to size 13.13995pt on input line 24.
+(Font)              scaled to size 13.13995pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/bx/n' will be
-(Font)              scaled to size 9.59998pt on input line 24.
+(Font)              scaled to size 9.59998pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/bx/n' will be
-(Font)              scaled to size 7.19998pt on input line 24.
+(Font)              scaled to size 7.19998pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/it' will be
-(Font)              scaled to size 13.13995pt on input line 24.
+(Font)              scaled to size 13.13995pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/it' will be
-(Font)              scaled to size 9.59998pt on input line 24.
+(Font)              scaled to size 9.59998pt on input line 34.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(1)/m/it' will be
-(Font)              scaled to size 7.19998pt on input line 24.
+(Font)              scaled to size 7.19998pt on input line 34.
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
 [][]
  []
 
 [6]
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/m/n' will be
-(Font)              scaled to size 29.85593pt on input line 34.
+(Font)              scaled to size 29.85593pt on input line 44.
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/bx/n' will be
-(Font)              scaled to size 29.85593pt on input line 34.
+(Font)              scaled to size 29.85593pt on input line 44.
  (./MainThesis.toc)
 \tf@toc=\write6
 \openout6 = `MainThesis.toc'.
@@ -2083,22 +2091,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+[][]
+ []
+
 File: ./Figures/GitBash.png Graphic file (type QTm)
- <use  "./Figures/GitBash.png" >
-File: ./Figures/GitInit.png Graphic file (type QTm)
- <use  "./Figures/GitInit.png" >
+<use  "./Figures/GitBash.png" >
+Underfull \vbox (badness 5847) has occurred while \output is active []
+
 LaTeX Font Info:    Font shape `EU1/XBNiloofar(0)/m/sc' will be
-(Font)              scaled to size 13.13995pt on input line 49.
+(Font)              scaled to size 13.13995pt on input line 51.
  [3]
-[4]
+File: ./Figures/GitInit.png Graphic file (type QTm)
+
+<use  "./Figures/GitInit.png" > [4] [5]
 File: ./Figures/GitClone.png Graphic file (type QTm)
  <use  "./Figures/GitClone.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 52--61
+Underfull \hbox (badness 10000) in paragraph at lines 67--76
 [][]
  []
 
 File: ./Figures/GitStatus.png Graphic file (type QTm)
-<use  "./Figures/GitStatus.png" > [5] [6]
+<use  "./Figures/GitStatus.png" > [6] [7]
 File: ./Figures/GitLog.png Graphic file (type QTm)
  <use  "./Figures/GitLog.png" >
 File: ./Figures/GitCheckout.png Graphic file (type QTm)
@@ -2106,9 +2120,9 @@ File: ./Figures/GitCheckout.png Graphic file (type QTm)
 <use  "./Figures/GitCheckout.png" >
 File: ./Figures/GitCheckout2.png Graphic file (type QTm)
  <use  "./Figures/GitCheckout2.png" >
-[7]
+[8]
 
-LaTeX Warning: Reference `GitAdd' on page 8 undefined on input line 103.
+LaTeX Warning: Reference `GitAdd' on page 9 undefined on input line 118.
 
 File: ./Figures/GitAdd.png Graphic file (type QTm)
 <use  "./Figures/GitAdd.png" >
@@ -2116,12 +2130,55 @@ File: ./Figures/GitReset.png Graphic file (type QTm)
  <use  "./Figures/GitReset.png" >
 File: ./Figures/GitCommit.png Graphic file (type QTm)
 
-<use  "./Figures/GitCommit.png" > [8])
+<use  "./Figures/GitCommit.png" > [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
-[10]) (./Postface/MainPostface.tex (./Postface/References2.tex
-(./MainThesis.bbl
+ [10]
+File: ./Figures/GitPush.png Graphic file (type QTm)
+
+<use  "./Figures/GitPush.png" >
+File: ./Figures/GitPull.png Graphic file (type QTm)
+ <use  "./Figures/GitPull.png" > [11]
+Underfull \hbox (badness 10000) in paragraph at lines 172--179
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--179
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--179
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--179
+[][]
+ []
+
+[12]
+File: ./Figures/n1.png Graphic file (type QTm)
+ <use  "./Figures/n1.png" > [13]
+File: ./Figures/n2.png Graphic file (type QTm)
+ <use  "./Figures/n2.png" > [14]
+File: ./Figures/n3.png Graphic file (type QTm)
+
+<use  "./Figures/n3.png" > [15]
+File: ./Figures/n4.png Graphic file (type QTm)
+ <use  "./Figures/n4.png" > [16]
+File: ./Figures/n6.png Graphic file (type QTm)
+
+<use  "./Figures/n6.png" > [17]
+File: ./Figures/n8.png Graphic file (type QTm)
+ <use  "./Figures/n8.png" > [18]
+File: ./Figures/n9.png Graphic file (type QTm)
+
+<use  "./Figures/n9.png" > [19]
+File: ./Figures/n9.png Graphic file (type QTm)
+ <use  "./Figures/n9.png" >) [20])
+(./Postface/MainPostface.tex (./Postface/References2.tex (./MainThesis.bbl
 Missing character: There is no م in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
 Missing character: There is no ر in font [lmroman10-bold]/OT:script=latn;langua
@@ -2132,13 +2189,14 @@ Missing character: There is no ج in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
 Missing character: There is no ع in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
-)) [11
+))
+[21
 
 ]
 runsystem(xindy -L persian-variant2 -C utf8 -M texindy -M page-ranges MainThesi
 s.idx)...executed.
 
- (./MainThesis.ind) (./Postface/AbstractEn.tex [12])
+ (./MainThesis.ind) (./Postface/AbstractEn.tex [22])
 \g__fontspec_family_Arial_int=\count324
 .................................................
 . fontspec info: "defining-font"
@@ -2161,7 +2219,7 @@ s.idx)...executed.
 LaTeX Info: Redefining \persianfont on input line 17.
 File: Preface/logo-noshirvani.pdf Graphic file (type QTm)
 
-<use  "Preface/logo-noshirvani.pdf" > [13]) 
+<use  "Preface/logo-noshirvani.pdf" > [23]) 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 11.
@@ -2175,14 +2233,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 40920 strings out of 493591
- 800115 string characters out of 6146793
+ 40947 strings out of 493591
+ 800387 string characters out of 6146793
  897527 words of memory out of 5000000
- 43515 multiletter control sequences out of 15000+600000
+ 43533 multiletter control sequences out of 15000+600000
  14489 words of font info for 122 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  62i,12n,82p,10474b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on MainThesis.pdf (21 pages).
+Output written on MainThesis.pdf (31 pages).

@@ -5,22 +5,22 @@
 \contentsline {section}{\numberline {1‏-‏2}تاریخچه}{3}{section.1.2}
 \contentsline {section}{\numberline {1‏-‏3}کنترل منابع \lr {(Source control)}}{3}{section.1.3}
 \contentsline {section}{\numberline {1‏-‏4}گیت \lr {(Git)}}{3}{section.1.4}
-\contentsline {subsection}{\numberline {1‏-‏4‏-‏1}شروع کار با گیت}{3}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏1}شروع کار با گیت}{4}{subsection.1.4.1}
 \contentsline {subsubsection}{init}{4}{subsubsection*.2}
-\contentsline {subsubsection}{clone}{5}{subsubsection*.4}
-\contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{5}{subsection.1.4.2}
-\contentsline {subsubsection}{status}{5}{subsubsection*.6}
-\contentsline {subsubsection}{log}{7}{subsubsection*.8}
-\contentsline {subsubsection}{checkout}{7}{subsubsection*.10}
-\contentsline {subsection}{\numberline {1‏-‏4‏-‏3}اعمال تغییرات}{8}{subsection.1.4.3}
-\contentsline {subsubsection}{add}{8}{subsubsection*.13}
-\contentsline {subsubsection}{reset}{8}{subsubsection*.15}
-\contentsline {subsubsection}{commit}{9}{subsubsection*.17}
-\contentsline {subsection}{\numberline {1‏-‏4‏-‏4}توزیع}{10}{subsection.1.4.4}
-\contentsline {subsubsection}{push}{10}{subsubsection*.19}
-\contentsline {subsubsection}{pull}{10}{subsubsection*.20}
-\contentsline {subsection}{\numberline {1‏-‏4‏-‏5} گسترش }{10}{subsection.1.4.5}
-\contentsline {subsubsection}{new branch}{10}{subsubsection*.21}
-\contentsline {subsubsection}{merge}{10}{subsubsection*.22}
-\contentsline {chapter}{نمایه}{12}{section*.25}
-\contentsline {chapter}{چکیده انگلیسی}{12}{section*.25}
+\contentsline {subsubsection}{clone}{6}{subsubsection*.4}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{6}{subsection.1.4.2}
+\contentsline {subsubsection}{status}{6}{subsubsection*.6}
+\contentsline {subsubsection}{log}{8}{subsubsection*.8}
+\contentsline {subsubsection}{checkout}{8}{subsubsection*.10}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏3}اعمال تغییرات}{9}{subsection.1.4.3}
+\contentsline {subsubsection}{add}{9}{subsubsection*.13}
+\contentsline {subsubsection}{reset}{9}{subsubsection*.15}
+\contentsline {subsubsection}{commit}{10}{subsubsection*.17}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏4}توزیع}{11}{subsection.1.4.4}
+\contentsline {subsubsection}{push}{11}{subsubsection*.19}
+\contentsline {subsubsection}{pull}{11}{subsubsection*.21}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏5} گسترش }{12}{subsection.1.4.5}
+\contentsline {subsubsection}{branch}{12}{subsubsection*.23}
+\contentsline {subsubsection}{merge}{12}{subsubsection*.24}
+\contentsline {chapter}{نمایه}{22}{section*.35}
+\contentsline {chapter}{چکیده انگلیسی}{22}{section*.35}
