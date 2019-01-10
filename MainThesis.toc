@@ -13,5 +13,5 @@
 \contentsline {subsubsection}{log}{7}{subsubsection*.8}
 \contentsline {subsubsection}{diff}{7}{subsubsection*.10}
 \contentsline {subsubsection}{checkout}{7}{subsubsection*.11}
-\contentsline {chapter}{نمایه}{10}{section*.14}
-\contentsline {chapter}{چکیده انگلیسی}{10}{section*.14}
+\contentsline {chapter}{نمایه}{10}{section*.16}
+\contentsline {chapter}{چکیده انگلیسی}{10}{section*.16}

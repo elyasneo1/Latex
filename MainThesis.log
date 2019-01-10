@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.20)  10 JAN 2019 14:28
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2018.11.20)  10 JAN 2019 14:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2100,10 +2100,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--61
 File: ./Figures/GitStatus.png Graphic file (type QTm)
 <use  "./Figures/GitStatus.png" > [5] [6]
 File: ./Figures/GitLog.png Graphic file (type QTm)
- <use  "./Figures/GitLog.png" >)
-[7]) (./Postface/MainPostface.tex (./Postface/References2.tex [8
+ <use  "./Figures/GitLog.png" >
+File: ./Figures/GitCheckout.png Graphic file (type QTm)
 
-]
+<use  "./Figures/GitCheckout.png" >
+File: ./Figures/GitCheckout2.png Graphic file (type QTm)
+ <use  "./Figures/GitCheckout2.png" >)
+[7] [8]) (./Postface/MainPostface.tex (./Postface/References2.tex
 (./MainThesis.bbl
 Missing character: There is no م in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
@@ -2115,7 +2118,9 @@ Missing character: There is no ج in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
 Missing character: There is no ع in font [lmroman10-bold]/OT:script=latn;langua
 ge=DFLT;mapping=tex-text;!
-)) [9]
+)) [9
+
+]
 runsystem(xindy -L persian-variant2 -C utf8 -M texindy -M page-ranges MainThesi
 s.idx)...executed.
 
@@ -2155,10 +2160,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 40904 strings out of 493591
- 799849 string characters out of 6146793
+ 40910 strings out of 493591
+ 799966 string characters out of 6146793
  897527 words of memory out of 5000000
- 43504 multiletter control sequences out of 15000+600000
+ 43508 multiletter control sequences out of 15000+600000
  14489 words of font info for 122 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  62i,12n,82p,10474b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
