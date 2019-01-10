@@ -11,7 +11,16 @@
 \contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{5}{subsection.1.4.2}
 \contentsline {subsubsection}{status}{5}{subsubsection*.6}
 \contentsline {subsubsection}{log}{7}{subsubsection*.8}
-\contentsline {subsubsection}{diff}{7}{subsubsection*.10}
-\contentsline {subsubsection}{checkout}{7}{subsubsection*.11}
-\contentsline {chapter}{نمایه}{10}{section*.16}
-\contentsline {chapter}{چکیده انگلیسی}{10}{section*.16}
+\contentsline {subsubsection}{checkout}{7}{subsubsection*.10}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏3}اعمال تغییرات}{8}{subsection.1.4.3}
+\contentsline {subsubsection}{add}{8}{subsubsection*.13}
+\contentsline {subsubsection}{reset}{8}{subsubsection*.15}
+\contentsline {subsubsection}{commit}{9}{subsubsection*.17}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏4}توزیع}{10}{subsection.1.4.4}
+\contentsline {subsubsection}{push}{10}{subsubsection*.19}
+\contentsline {subsubsection}{pull}{10}{subsubsection*.20}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏5} گسترش }{10}{subsection.1.4.5}
+\contentsline {subsubsection}{new branch}{10}{subsubsection*.21}
+\contentsline {subsubsection}{merge}{10}{subsubsection*.22}
+\contentsline {chapter}{نمایه}{12}{section*.25}
+\contentsline {chapter}{چکیده انگلیسی}{12}{section*.25}
