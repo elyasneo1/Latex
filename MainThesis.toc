@@ -2,14 +2,14 @@
 \thispagestyle {empty}
 \contentsline {chapter}{\numberline {1}آموزش ورژن کنترل}{1}{chapter.1}
 \contentsline {section}{\numberline {1‏-‏1}مقدمه}{2}{section.1.1}
-\contentsline {section}{\numberline {1‏-‏2}تاریخچه}{2}{section.1.2}
-\contentsline {section}{\numberline {1‏-‏3}کنترل منابع \lr {(Source control)}}{2}{section.1.3}
+\contentsline {section}{\numberline {1‏-‏2}تاریخچه}{3}{section.1.2}
+\contentsline {section}{\numberline {1‏-‏3}کنترل منابع \lr {(Source control)}}{3}{section.1.3}
 \contentsline {section}{\numberline {1‏-‏4}گیت \lr {(Git)}}{3}{section.1.4}
 \contentsline {subsection}{\numberline {1‏-‏4‏-‏1}شروع کار با گیت}{3}{subsection.1.4.1}
-\contentsline {subsubsection}{init}{3}{subsubsection*.1}
-\contentsline {subsubsection}{clone}{3}{subsubsection*.2}
-\contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{4}{subsection.1.4.2}
-\contentsline {subsubsection}{status}{4}{subsubsection*.3}
-\contentsline {subsubsection}{checkout}{4}{subsubsection*.4}
-\contentsline {chapter}{نمایه}{6}{section*.7}
-\contentsline {chapter}{چکیده انگلیسی}{6}{section*.7}
+\contentsline {subsubsection}{init}{4}{subsubsection*.2}
+\contentsline {subsubsection}{clone}{5}{subsubsection*.4}
+\contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{5}{subsection.1.4.2}
+\contentsline {subsubsection}{status}{5}{subsubsection*.5}
+\contentsline {subsubsection}{checkout}{5}{subsubsection*.6}
+\contentsline {chapter}{نمایه}{8}{section*.9}
+\contentsline {chapter}{چکیده انگلیسی}{8}{section*.9}
