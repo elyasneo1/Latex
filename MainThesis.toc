@@ -10,7 +10,8 @@
 \contentsline {subsubsection}{clone}{5}{subsubsection*.4}
 \contentsline {subsection}{\numberline {1‏-‏4‏-‏2}بررسی و دستیابی}{5}{subsection.1.4.2}
 \contentsline {subsubsection}{status}{5}{subsubsection*.6}
-\contentsline {subsubsection}{checkout}{6}{subsubsection*.8}
-\contentsline {subsubsection}{diff}{6}{subsubsection*.9}
-\contentsline {chapter}{نمایه}{8}{section*.12}
-\contentsline {chapter}{چکیده انگلیسی}{8}{section*.12}
+\contentsline {subsubsection}{log}{7}{subsubsection*.8}
+\contentsline {subsubsection}{diff}{7}{subsubsection*.10}
+\contentsline {subsubsection}{checkout}{7}{subsubsection*.11}
+\contentsline {chapter}{نمایه}{10}{section*.14}
+\contentsline {chapter}{چکیده انگلیسی}{10}{section*.14}
